@@ -1,4 +1,4 @@
-# establecer conexion a equipos via ssh
+# AUTOMATIZACION DE REDES OSPF
 
 from netmiko import ConnectHandler
 
